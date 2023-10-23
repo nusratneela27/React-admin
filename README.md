@@ -1,2 +1,2 @@
 # Live link
-- [react-admins.netlify.app]
+- [react admin](https://react-admins.netlify.app)
